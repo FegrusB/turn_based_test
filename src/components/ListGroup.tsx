@@ -1,11 +1,29 @@
-function ListGroup(){
-    return <ul className="list-group">
-        <li className="list-group-item">Happy Birthday Dad</li>
-        <li className="list-group-item active" aria-current={true}>this is a react test</li>
-        <li className="list-group-item">A third item</li>
-        <li className="list-group-item">A fourth item</li>
-        <li className="list-group-item">And a fifth one</li>
-    </ul>
+import {useState} from "react";
+
+function ListGroup() {
+    let list = ["This","Is","a","Smarter","List"];
+    const [selectedIndex,setSelectedIndex] = useState(-1);
+    //list = []
+
+
+    return (
+        <>
+            <h1>List:</h1>
+            <h2>{list[selectedIndex]}</h2>
+            {list.length === 0 && <p>No Items Found</p>}
+            <ul className="list-group">
+                {list.map((item,index)=>(
+                    <li
+                        key={item}
+                        className= {selectedIndex === index ? 'list-group-item active' : 'list-group-item'}
+                        onClick={() => setSelectedIndex(index)}
+                    >
+                        {item}
+                    </li>
+                ))}
+            </ul>
+        </>
+    );
 }
 
 export default ListGroup
