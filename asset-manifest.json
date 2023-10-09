@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/turn_based_test/static/css/main.56674bb3.css",
+    "main.js": "/turn_based_test/static/js/main.a6e71830.js",
+    "static/js/787.6f37143f.chunk.js": "/turn_based_test/static/js/787.6f37143f.chunk.js",
+    "static/media/Poo.svg": "/turn_based_test/static/media/Poo.54ab58ab3ac4f29f032d4ae649dbf922.svg",
+    "index.html": "/turn_based_test/index.html",
+    "main.56674bb3.css.map": "/turn_based_test/static/css/main.56674bb3.css.map",
+    "main.a6e71830.js.map": "/turn_based_test/static/js/main.a6e71830.js.map",
+    "787.6f37143f.chunk.js.map": "/turn_based_test/static/js/787.6f37143f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56674bb3.css",
+    "static/js/main.a6e71830.js"
+  ]
+}
