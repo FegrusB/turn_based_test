@@ -1,6 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './assets/Poo.svg';
 import './App.css';
+import MyButton from './MyButton';
+import ListGroup from './components/ListGroup'
 
 function App() {
   return (
@@ -18,9 +20,10 @@ function App() {
         >
           Learn React
         </a>
+        <MyButton/>
+        <ListGroup/>
       </header>
     </div>
   );
 }
-
 export default App;
