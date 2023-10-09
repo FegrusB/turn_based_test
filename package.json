@@ -1,7 +1,7 @@
 {
   "name": "turn_based_test",
   "version": "0.1.0",
-  "homepage": "http://FegrusB.github.io/turn_based_test",
+  "homepage": "https://FegrusB.github.io/turn_based_test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/Poo.svg';
+import logo from './assets/Pizza.svg';
 import './App.css';
 import MyButton from './MyButton';
 import ListGroup from './components/ListGroup'
