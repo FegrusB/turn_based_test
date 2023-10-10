@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/turn_based_test/static/css/main.56674bb3.css",
-    "main.js": "/turn_based_test/static/js/main.adeea1ad.js",
+    "main.css": "/turn_based_test/static/css/main.ea4f041b.css",
+    "main.js": "/turn_based_test/static/js/main.64715afc.js",
     "static/js/787.6f37143f.chunk.js": "/turn_based_test/static/js/787.6f37143f.chunk.js",
     "static/media/Pizza.svg": "/turn_based_test/static/media/Pizza.9efdf2fadfa23f62ac06bbe0ce69af71.svg",
     "index.html": "/turn_based_test/index.html",
-    "main.56674bb3.css.map": "/turn_based_test/static/css/main.56674bb3.css.map",
-    "main.adeea1ad.js.map": "/turn_based_test/static/js/main.adeea1ad.js.map",
+    "main.ea4f041b.css.map": "/turn_based_test/static/css/main.ea4f041b.css.map",
+    "main.64715afc.js.map": "/turn_based_test/static/js/main.64715afc.js.map",
     "787.6f37143f.chunk.js.map": "/turn_based_test/static/js/787.6f37143f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56674bb3.css",
-    "static/js/main.adeea1ad.js"
+    "static/css/main.ea4f041b.css",
+    "static/js/main.64715afc.js"
   ]
 }
